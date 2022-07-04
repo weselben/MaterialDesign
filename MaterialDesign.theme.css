@@ -90,9 +90,12 @@
     --skin-accent-h: 140;
     --skin-accent-s: 80%;
     --skin-accent-l: 74;
+    
+    /* ---- */
+    
     --skin-accent-a: 100;
 
-    /* ---- */
+    
 
     --skin-background-h: 0;
     --skin-background-s: 0%;
@@ -144,9 +147,12 @@
     --skin-accent-h: 131;
     --skin-accent-s: 80%;
     --skin-accent-l: 74;
+    
+    /* ---- */
+    
     --skin-accent-a: 100;
 
-    /* ---- */
+    
 
     --switch-checked-background: hsl(101, calc(var(--saturation-factor) * 54%), 27%);
     --switch-unchecked-background: #74796e33;
